@@ -1,0 +1,1 @@
+Uh oh! Lillian has accidentally deleted everything on her flash drive! Here¡¯s an image of the drive; find the PNG and get the flag.
