@@ -1,0 +1,32 @@
+Name                                GOT            PLT      
+
+_ITM_deregisterTMCloneTable       0x204fb0                  
+stdout                            0x204fb8                  
+__libc_start_main                 0x204fc0                  
+__gmon_start__                    0x204fc8                  
+_ITM_registerTMCloneTable         0x204fd0                  
+__cxa_finalize                    0x204fd8        0xd10     
+stderr                            0x204fe0                  
+free                              0x205018        0xb9c     
+cs_option                         0x205020        0xbb0     
+cs_free                           0x205028        0xbc0     
+strlen                            0x205030        0xbd0     
+__stack_chk_fail                  0x205038        0xbe0     
+setbuf                            0x205040        0xbf0     
+snprintf                          0x205048        0xc00     
+strncat                           0x205050        0xc10     
+alarm                             0x205058        0xc20     
+memcmp                            0x205060        0xc30     
+calloc                            0x205068        0xc40     
+getchar                           0x205070        0xc50     
+signal                            0x205078        0xc60     
+fprintf                           0x205080        0xc70     
+cs_disasm_iter                    0x205088        0xc80     
+cs_malloc                         0x205090        0xc90     
+malloc                            0x205098        0xca0     
+realloc                           0x2050a0        0xcb0     
+cs_open                           0x2050a8        0xcc0     
+__isoc99_scanf                    0x2050b0        0xcd0     
+exit                              0x2050b8        0xce0     
+fwrite                            0x2050c0        0xcf0     
+cs_close                          0x2050c8        0xd00
