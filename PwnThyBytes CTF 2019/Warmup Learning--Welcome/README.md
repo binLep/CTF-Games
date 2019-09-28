@@ -1,0 +1,1 @@
+What is the shortest flag that matches the regex from the rules?
