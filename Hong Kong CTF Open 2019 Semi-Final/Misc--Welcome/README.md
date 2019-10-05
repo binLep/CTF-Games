@@ -1,0 +1,1 @@
+Welcome to HKCTF Open 2019. Please get the flag from the file.

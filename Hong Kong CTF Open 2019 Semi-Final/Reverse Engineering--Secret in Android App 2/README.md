@@ -1,0 +1,1 @@
+The protection method changed. Can you find the flag this time?

@@ -1,0 +1,1 @@
+Can you find the flag encoded inside the image?

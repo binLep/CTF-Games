@@ -1,0 +1,1 @@
+My secret string was broken because of fire. Can you help to decode?

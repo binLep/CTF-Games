@@ -1,0 +1,1 @@
+I can't get the information from the audio. Can you?

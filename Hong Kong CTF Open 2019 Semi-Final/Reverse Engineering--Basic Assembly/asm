@@ -1,0 +1,28 @@
+.intel_syntax noprefix
+.bits 32
+	
+.global asm0
+
+asm0:
+    push   ebp
+    mov    ebp,esp
+    mov    DWORD PTR [ebp+0x8],0x0
+    mov    DWORD PTR [ebp+0xc],0x1
+    mov    eax,DWORD PTR [ebp+0x8]
+    add    eax,0xb
+    mov    DWORD PTR [ebp+0x8],eax
+    mov    ecx,DWORD PTR [ebp+0x8]
+    sub    ecx,DWORD PTR [ebp+0xc]
+    mov    DWORD PTR [ebp+0x8],ecx
+    mov    edx,DWORD PTR [ebp+0x8]
+    sub    edx,0x1
+    mov    DWORD PTR [ebp+0x8],edx
+    mov    eax,DWORD PTR [ebp+0xc]
+    add    eax,0x1
+    mov    DWORD PTR [ebp+0xc],eax
+    mov    eax,DWORD PTR [ebp+0x8]
+    cdq
+    mov    ecx,0x3
+    idiv   ecx
+    ret
+
