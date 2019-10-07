@@ -1,0 +1,3 @@
+I don't know how to execute my code T.T...
+(It just C jail break, flag exist in run file)<br>
+nc 211.239.124.246 12406
