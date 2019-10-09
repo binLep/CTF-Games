@@ -1,0 +1,1 @@
+Some nasty devil stole my data and sent me back this picture instead. Can you help me?

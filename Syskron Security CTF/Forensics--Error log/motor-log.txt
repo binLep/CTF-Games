@@ -1,0 +1,131 @@
+--------------------------------------------------------------------------------
+1: Sep 7 18:44:24 2019 - Motor 8 - Error code 174 - First occurrence
+Motor emergency break enabled - check interface 173
+
+--------------------------------------------------------------------------------
+2: Sep 7 18:45:56 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 164
+
+--------------------------------------------------------------------------------
+3: Sep 7 18:46:54 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 150
+
+--------------------------------------------------------------------------------
+4: Sep 7 18:47:33 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 145
+
+--------------------------------------------------------------------------------
+5: Sep 7 18:48:50 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 55
+
+--------------------------------------------------------------------------------
+6: Sep 7 18:49:48 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 155
+
+--------------------------------------------------------------------------------
+7: Sep 7 18:50:23 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 157
+
+--------------------------------------------------------------------------------
+8: Sep 7 18:51:21 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 164
+
+--------------------------------------------------------------------------------
+9: Sep 7 18:52:29 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 157
+
+--------------------------------------------------------------------------------
+10: Sep 7 18:53:24 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 162
+
+--------------------------------------------------------------------------------
+11: Sep 7 18:54:49 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 55
+
+--------------------------------------------------------------------------------
+12: Sep 7 18:55:21 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 156
+
+--------------------------------------------------------------------------------
+13: Sep 7 18:56:34 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 145
+
+--------------------------------------------------------------------------------
+14: Sep 7 18:57:49 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 145
+
+--------------------------------------------------------------------------------
+15: Sep 7 18:58:23 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 144
+
+--------------------------------------------------------------------------------
+16: Sep 7 18:59:32 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 163
+
+--------------------------------------------------------------------------------
+17: Sep 7 19:00:44 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 55
+
+--------------------------------------------------------------------------------
+18: Sep 7 19:01:38 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 164
+
+--------------------------------------------------------------------------------
+19: Sep 7 19:02:16 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 157
+
+--------------------------------------------------------------------------------
+20: Sep 7 19:03:34 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 55
+
+--------------------------------------------------------------------------------
+21: Sep 7 19:04:49 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 142
+
+--------------------------------------------------------------------------------
+22: Sep 7 19:05:42 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 145
+
+--------------------------------------------------------------------------------
+23: Sep 7 19:06:45 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 55
+
+--------------------------------------------------------------------------------
+24: Sep 7 19:07:25 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 162
+
+--------------------------------------------------------------------------------
+25: Sep 7 19:08:32 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 145
+
+--------------------------------------------------------------------------------
+26: Sep 7 19:09:11 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 160
+
+--------------------------------------------------------------------------------
+27: Sep 7 19:10:11 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 154
+
+--------------------------------------------------------------------------------
+28: Sep 7 19:11:27 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 141
+
+--------------------------------------------------------------------------------
+29: Sep 7 19:12:27 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 143
+
+--------------------------------------------------------------------------------
+30: Sep 7 19:13:24 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 145
+
+--------------------------------------------------------------------------------
+31: Sep 7 19:14:47 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 144
+
+--------------------------------------------------------------------------------
+32: Sep 7 19:15:47 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 41
+
+--------------------------------------------------------------------------------
+33: Sep 7 19:16:44 2019 - Motor 8 - Error code 174
+Motor emergency break enabled - check interface 175

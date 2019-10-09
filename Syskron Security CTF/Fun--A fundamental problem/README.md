@@ -1,0 +1,2 @@
+While programming a PLC, my boss turned up, and told me that I can never solve his "fundamental problem":<br>
+48 5a 3c 5c 38 2f 53 66 21 30 44 4b 67 37 55 46 22 4d 57 52 41 70 2f 36 2c 47 40 6b 5a 34 41 31 5f 4a 30 42 36 37 5b 2e 41 55 4f

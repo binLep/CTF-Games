@@ -1,0 +1,1 @@
+I read about the tchmi_base64decode function when my colleague found this strange thing and a written note. Do you know what it is?
