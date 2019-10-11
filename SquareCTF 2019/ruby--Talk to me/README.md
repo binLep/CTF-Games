@@ -1,0 +1,7 @@
+**++An Advicefull Aunt++**
+Ever since you were a child, your aunt Matilda has nudged you to becoming a hacker like her. The happiest you’ve ever seen a person is when you were 18 and she walked in on you disassembling the VCR. She loved you and had big dreams for you. You didn’t know exactly what she did for a living, but about five months ago she completely disappeared without a word.<br>
+Today is your 20th birthday, and you’re hanging out in your apartment with your roommate, Sam. It’s been a pretty regular morning up until this point except all the electronics in your apartment are on the fritz. Your WiFi enabled toothbrush has been whirling like crazy. Your smart alarm clock keeps beeping and booping. You seriously re-evaluate the merits of your IoT bidet. Everything is a mess.<br>
+“Hey, Sam, did you change anything with the WiFi?”
+“No… oh wait. I found this free ‘Gromecast’ in the parking lot and set it up. It gets free HBO!”<br>
+You walk over to the TV and see a 3D printed Raspberry PI enclosure with a cable going to the TV and another to the router. The enclosure has “Gromecast” and “Free HBO” scrawled on the top in sharpie. You’re going to need to have a talk with Sam after you get this sorted out.<br>
+A quick scan of the port of the device reveal its running <a href="telnet://talk-to-me-dd00922915bfc3f1.squarectf.com:5678">a server</a>.
