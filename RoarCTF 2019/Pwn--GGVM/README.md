@@ -1,0 +1,2 @@
+描述：Ubuntu 18.04 请直接访问nc 122.51.45.191 10050<br>
+附件下载 <a href="https://roarctf.4hou.com/files/so3BbfAGVrrL73dHzS3KHtR5ZJA7vh2dnWB1Uumk29mH5cF2G43BMKY9xBFKFefAxz5vwMdeqGbNp1iX8YknUGN56zmcsM6DLNxLxTNXY62P5BFPtMUc7mWeEty2?token=25PUqDj7X8CmSgDRNQqFmLo9T3SyvPccjLcx1NjpXRhcWSQvso72f8kMyRiSiFKCd4dC9ScVtwE5oiYMSHjNuwAJUNNS2GSyPSEsXshC5JK4RZ4pN14KStKEPu8rx1fuZY3cJSk9JULnP37j9aLAhZj8VaK1vyvLztPPo8HicSe4wv">文件</a>
