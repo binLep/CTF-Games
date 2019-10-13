@@ -1,0 +1,1 @@
+Here is a text file containing some information. Try to gain this information, hopefully you will find your flag.
