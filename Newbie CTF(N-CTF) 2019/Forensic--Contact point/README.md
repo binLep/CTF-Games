@@ -1,0 +1,3 @@
+경찰의 수사 끝에 마약을 사려는 구매자를 잡았다. 마약 구매자와 함께 마약 판매상을 잡으려는데, 구매자가 접선장소를 말하지 않는다. 이 사람의 스마트폰을 압수하였는데, 과연 접선지를 알아낼 수 있을까? Flag포맷: KorNewbie{접선지} &lt;뛰어쓰기는 \_로 대체하세요&gt;<br><br>
+After a police investigation, he caught a buyer trying to buy drugs. You try to catch a drug dealer with a drug buyer, but the buyer doesn't say where you are meeting. If you seized this man's smartphone, can you find out where it is? Flag Format: KorNewbie{Contact point}<br><br>
+Author: 신재욱(Y311J)
