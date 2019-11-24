@@ -1,0 +1,2 @@
+Check out this really bad shopping manager. Get a copy of it here: https://wumb0list.legitimate.network/ It's at /wumb0list/wumb0list (Note: this is not a web challenge, do not exploit the website, only the container it gives you)<br><br>
+Author: wumb0
