@@ -1,0 +1,1 @@
+It's amazing that there is a doc file whose header is MIME!!!
