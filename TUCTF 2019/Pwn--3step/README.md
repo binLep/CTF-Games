@@ -1,0 +1,1 @@
+Gonna have to get crafty with this one.<br><br>nc chal.tuctf.com 30504

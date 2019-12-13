@@ -1,0 +1,1 @@
+Enter the belly of the beast and emerge victorious.<br><br>nc chal.tuctf.com 30502

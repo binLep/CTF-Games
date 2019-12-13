@@ -1,0 +1,1 @@
+King Arthur has proposed this challenge for all those who consider themselves worthy.<br><br>nc chal.tuctf.com 30505
