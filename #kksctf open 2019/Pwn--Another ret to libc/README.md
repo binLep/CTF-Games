@@ -1,0 +1,1 @@
+Kackers are hiding some crucial information here. We don't know what exactly it is, but can you help us to retrive it?<br><br>nc tasks.open.kksctf.ru 10001<br><br>libc: https://drive.google.com/open?id=1t9G-yAWk0c8eLTlDZ45DstV0UqmrScgS

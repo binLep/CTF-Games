@@ -1,0 +1,1 @@
+We received new message from kackers. They laugh at us being sure that no one will ever be able to break them and even left a description of what needs to be done. Show them what happens to overly confident people!<br><br>nc tasks.open.kksctf.ru 10002<br><br>https://drive.google.com/open?id=1xSswzDDa0lhtGZ2zfhkRr_kNHD0pcdIy<br><br>@oldwayfarer<br>

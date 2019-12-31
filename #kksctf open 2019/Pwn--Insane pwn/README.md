@@ -1,0 +1,1 @@
+There supposed to be some uncrackable badass pwn, but, you know, all this festive mood around and i am a kind fellow, so just for this time take easy one instead...let it be our little secret. Happy New Year! :)<br><br>nc tasks.open.kksctf.ru 10003<br><br>https://drive.google.com/open?id=1FaEc0QH_7zvSDQNgJcVwRf3F1dQptp-d<br><br>@oldwayfarer
