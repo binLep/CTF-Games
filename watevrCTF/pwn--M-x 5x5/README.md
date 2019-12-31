@@ -1,0 +1,1 @@
+I'm working on rewriting Emacs in C, and have gotten quite a lot of it done. Can you help me, and see if there are any security issues with it? Note: A more functional version can be found here: http://www.logicgamesonline.com/lightsout/

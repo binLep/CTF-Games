@@ -1,0 +1,1 @@
+Welcome to our betting service! I hope you will like it :))
