@@ -1,0 +1,1 @@
+While looking for scripts to reuse from last year hxp CTF, we found this service running on one of our servers. This service concats hxp flags for easier shipment. Because hxp produces so much flags one dedicated server running only this script was necessary.
