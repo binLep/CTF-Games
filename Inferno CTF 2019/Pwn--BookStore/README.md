@@ -1,0 +1,1 @@
+I've been fascinated by the Earthsea Quartet since I was a child, so I would like I opened a bookstore to share Ursula Le Guin's with y'all. Care to have a look around?

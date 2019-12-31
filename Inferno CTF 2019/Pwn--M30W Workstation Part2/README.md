@@ -1,0 +1,1 @@
+Prove your ability and get the second secret flag in M30W Workstation<br><br>Note : This challenge is only solvable after completing M30W Workstation Part1<br><br>https://130.211.214.112:18002/cgi-bin/M30W_Workstation.cgi<br><br>Author : M30W<br>

@@ -1,0 +1,1 @@
+A simple AI to greet the customers :chuckles:
