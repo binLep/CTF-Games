@@ -1,0 +1,1 @@
+nc 47.106.94.13 50005<br>据说SCP基金会的RU分部遇到了大麻烦呢OwO<br>我们搞到了一个SCP-RU系统的入口~<br><br>hint1: 嘿呀你还没搞定吗！总部发下来了新的资料快去看看吧！（资料内容：自由函数貌似存在问题呢）<br><a href="https://github.com/treebacker/ACTF/raw/master/SCP_Foundation">点击这里，开始你的比赛！</a>

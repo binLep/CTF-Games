@@ -1,0 +1,1 @@
+你看我匀称吗？<br><a href="https://gitee.com/gitwarning/afctf/raw/master/%E7%AD%BE%E5%88%B0.zip">点击这里，开始你的比赛！</a>

@@ -1,0 +1,1 @@
+双胞胎会不会有心灵感应？<br><a href="https://gitee.com/gitwarning/cccccctf/raw/master/none.zip">点击这里，开始你的比赛！</a>

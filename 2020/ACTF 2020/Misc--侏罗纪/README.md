@@ -1,0 +1,1 @@
+FLAG格式：flag{xxxxxxxxxxxxxxxx}<br><a href="https://gitee.com/gitwarning/cccccctf/raw/master/www.zip">点击这里，开始你的比赛！</a>

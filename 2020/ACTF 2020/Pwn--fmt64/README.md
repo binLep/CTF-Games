@@ -1,0 +1,1 @@
+thanks to xxx<br>nc 47.106.94.13 50010<br><a href="https://github.com/treebacker/ACTF/raw/master/fmt64">点击这里，开始你的比赛！</a>

@@ -1,0 +1,1 @@
+某犯罪分子遗留大量文件，找找这里面的信息吧<br><a href="https://gitee.com/gitwarning/cccccctf/raw/master/flag.rar">点击这里，开始你的比赛！</a>

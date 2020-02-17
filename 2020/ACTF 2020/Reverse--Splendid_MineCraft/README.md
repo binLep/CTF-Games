@@ -1,0 +1,1 @@
+\*\*S\*\*plendid \*\*M\*\*ine\*\*C\*\*raft!<br><br>hint1:“找到main了吗？不如康康输出在哪里”<br>hint2:“听说你知道smc？”<br><a href="http://49.234.62.86:9999/Splendid_MineCraft.exe">点击这里，开始你的比赛！</a>

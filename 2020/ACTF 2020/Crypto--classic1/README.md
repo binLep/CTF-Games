@@ -1,0 +1,1 @@
+维吉尼亚加密是极其经典的古典密码，flag格式为actf{}，明文中的字母均为小写。<br><a href="https://pan.baidu.com/s/11SdBU9MaA6MRIBceoBY5gQ">点击这里，开始你的比赛！</a>

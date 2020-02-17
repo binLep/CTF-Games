@@ -1,0 +1,1 @@
+This is your flag. Here you are.<br>IDA and OD are really my friends. Do you want to play with them too?<br><a href="http://49.234.62.86:9999/Sign_up.exe">点击这里，开始你的比赛！</a>

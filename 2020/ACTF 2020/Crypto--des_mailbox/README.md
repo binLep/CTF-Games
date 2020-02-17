@@ -1,0 +1,1 @@
+小Z自创了一套DES加密方法。他悄悄告诉你，这是你们传递秘密的信箱，所以想要获得他的秘密很简单，动动小脑袋瓜和小手指头就可以啦！flag格式为actf{\*\*\*}<br><a href="https://pan.baidu.com/s/1BZ9XOd1t8rS13Say8dAjUQ">点击这里，开始你的比赛！</a>

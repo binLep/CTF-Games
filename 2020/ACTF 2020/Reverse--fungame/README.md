@@ -1,0 +1,1 @@
+Pwn is different from reverse.<br><a href="http://49.234.62.86:9998/fungame.exe">点击这里，开始你的比赛！</a>

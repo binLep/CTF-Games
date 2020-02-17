@@ -1,0 +1,1 @@
+random lucky<br>nc 47.106.94.13 50009<br><a href="https://github.com/treebacker/afctf/raw/master/fmt32">点击这里，开始你的比赛！</a>

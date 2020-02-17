@@ -1,0 +1,1 @@
+Can you pass the check？<br>nc 47.106.94.13 50008<br><a href="https://github.com/treebacker/afctf/raw/master/chk_rop">点击这里，开始你的比赛！</a>

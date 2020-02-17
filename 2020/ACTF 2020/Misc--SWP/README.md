@@ -1,0 +1,1 @@
+简单的流量题。<br>格式为：actf{xxxxxx}，flag均是小写<br><a href="https://gitee.com/gitwarning/afctf/raw/master/wget.zip">点击这里，开始你的比赛！</a>

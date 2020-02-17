@@ -1,0 +1,1 @@
+远在天边，近在眼前。<br>仔细找找吧~<br><a href="https://gitee.com/gitwarning/afctf/raw/master/%E8%BF%91%E5%9C%A8%E7%9C%BC%E5%89%8D.zip">点击这里，开始你的比赛！</a>

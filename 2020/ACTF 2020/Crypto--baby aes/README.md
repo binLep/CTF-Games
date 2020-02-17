@@ -1,0 +1,1 @@
+AES是一种十分高效安全的对称加密方式，在现代密码学中有着举足轻重的地位。小Z对此很放心，于是就写了一个脚本用AES加密，你能获得他的明文嘛？flag格式为actf{\*\*\*}<br><a href="https://pan.baidu.com/s/1a4g_WYVVWJpKlMQ1BLhkKQ">点击这里，开始你的比赛！</a>
