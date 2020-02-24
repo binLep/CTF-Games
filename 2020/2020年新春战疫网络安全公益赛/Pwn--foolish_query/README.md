@@ -1,0 +1,1 @@
+Try to read the flag under current directory, running under ubuntu 16.04.<br>nc 123.56.85.29 6687
