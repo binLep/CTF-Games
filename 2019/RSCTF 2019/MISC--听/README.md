@@ -1,1 +1,0 @@
-flag提交格式为:flag{xxxx} xxxx即为所得字符串

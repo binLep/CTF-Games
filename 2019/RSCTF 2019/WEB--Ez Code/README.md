@@ -1,1 +1,0 @@
-Challenge from real audit environment
