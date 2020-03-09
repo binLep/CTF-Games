@@ -1,0 +1,1 @@
+This system was created to simplify the work of dispatchers.<br><br>However, it does not work correctly.<br><br>Something is wrong with the files.<br><br><a href="https://mega.nz/#!WUgDHZpR!jUZYm5_5xhe2BV8k2lkUjFLpV8XDAZubhGBu9JwLBZM">Download</a><br><br>`nc tasks.aeroctf.com 33013`<br><br>`flag in /tmp/flag.txt`<br><br><a href="https://t.me/revker">@revker</a>

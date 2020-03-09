@@ -1,0 +1,1 @@
+Modern firewalls can detect popular shellcodes.<br><br>Therefore, you can often find something like what you see in a binary file.<br><br>Try to get a shell.<br><br><a href="https://mega.nz/#!fR4F2DIZ!JVwQV4CQfYTw5-V5b1rAFGqXxIsmWPwyBX0Iu2eGScc">Download</a><br><br>`nc tasks.aeroctf.com 33001`<br><br>`flag in /tmp/flag.txt`<br><br><a href="https://t.me/revker">@revker</a><br>

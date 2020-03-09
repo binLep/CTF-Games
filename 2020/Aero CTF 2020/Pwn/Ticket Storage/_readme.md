@@ -1,0 +1,1 @@
+This is a completely secure ticket reservation service!<br><br>Change my mind!<br><br><a href="https://mega.nz/#!XBxBGB6Q!6o4jMsSw9aRRI21whK0yQACxazXK7NLLgqI_J11CTvk">Download</a><br><br>`nc tasks.aeroctf.com 33014`<br><br>`flag in /tmp/flag.txt`<br><br><a href="https://t.me/revker">@revker</a>
